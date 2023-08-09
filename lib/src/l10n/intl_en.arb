@@ -1,0 +1,14 @@
+{
+    "login": "Login",
+    "email": "Email",
+    "password":"Password",
+    "Donothaveanaccount":"Don’t have an account?",
+    "signup":"Sign Up",
+    "fullname":"Full name",
+    "username":"Username",
+    "alreadyhaveanaccount":"Already have an account?",
+    "signin":"Sign in",
+    "nameentry":"Name Entry",
+    "continueText": "Continue",
+    "enterName":"Please enter your name"
+}
